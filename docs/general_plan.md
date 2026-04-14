@@ -97,7 +97,7 @@ Plans connected by `∥` can be implemented in parallel. Arrows indicate that al
 | Contract | Valid aggregators |
 |---|---|
 | `MontoContract` | `SUM, MAX, MIN, AVG` |
-| `CantidadContract` | `SUM, COUNT` |
+| `CantidadContract` | `SUM` |
 | `TicketContract` | `AVG` |
 | `FlagContract` | `MAX` |
 | `FechaContract` | `MAX, MIN` |
